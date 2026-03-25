@@ -17,3 +17,11 @@ to remove a initialized repo, we can run 'rm -rf .git' (or more safely, place th
 'git commit -m "some message"' - makes the snapshot/saves the current state of the project
 
 'git status' - tells us information such as the branch we are on, files that have been staged, files that have been modified since last commit and more.
+
+git push orgin branch (ie main)
+
+## Branching
+
+create on with git branch (branchname)
+
+Refactoring is modifying code to work better without changing functionality
